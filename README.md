@@ -1,2 +1,2 @@
 # LearningGit
-Sample repo for learning GIT &amp; GITHUB
+Sample repo for learning GIT &amp; GITHUB: Updated!
